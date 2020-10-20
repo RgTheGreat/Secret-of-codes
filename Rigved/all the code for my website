@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html>
+    <!--alll the code for my website-->
+    <head>
+    
+    <style>
+       body {
+           background-image: url("images/tree.jpg");
+           background-repeat: no-repeat;
+           background-position: top right;
+       } 
+       h1 {
+           color: red;
+           text-align: center;
+       }
+           text-align: center;
+           color: blue;
+       p {
+           font-size: 20px;
+       }
+       .button {
+           text-align: center;
+           color: yellow;
+       }
+    </style>
+    </head>
+    <body>
+        <div class="button">
+  <button onclick="window.location.href='http://saturated-cycle.000webhostapp.com/index.html';">Home</button>
+  <button onclick="window.location.href='http://saturated-cycle.000webhostapp.com/timetable.html';">Time table</button>
+  <button onclick="window.location.href='http://saturated-cycle.000webhostapp.com/videos.html';">Youtube Videos</button>
+  <button onclick="window.location.href='http://saturated-cycle.000webhostapp.com/more.html';">More</button>
+  <button onclick="window.location.href='https://www.google.com/';">Browse the web</button>
+</div>
+    <h1>Rigved's land</h1>        
+   
+    <p>Welcome to my website"Rigved's Land"</p>
+    <p>Hello,in this website you can watch youtube videos,browse the web etc.</p>
+    <p>Enjoy the my website!</p>
+
+ <p>&#128516;</p>
+    
+    </body>
+</html>
+
+
+<!--all the code for youtube(3 videos)-->
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <style>
+        .button {
+            text-align: center;
+            background-color:red;
+            color: White;
+        }
+        
+        </style>
+    </head>
+<body>
+    <div class="button">
+<button onclick="window.location.href='https://www.youtubekids.com/';">Youtube kids</button>
+</div>
+  <button onclick="window.location.href='http://saturated-cycle.000webhostapp.com/index.html';">Home</button>
+  <h1 style="text-align: center;">Watch here</h1>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/0BSuXfMU3CM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/ZcopvkSgBgc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  
+  <a href="https://www.youtubekids.com/watch?v=HDBR0j5F94w">big buck bunny</a>
+</body>
+</html>
+
+<!--all the code for more-->
+
+<!DOCTYPE html>
+<html>
+    <head>
+    <style>
+           body {
+           background-image: url("images/tree.jpg");
+           background-repeat: no-repeat;
+           background-position: top right;
+           background-color: yellow;    
+       } 
+    </style>
+    </head>
+    <body>
+    <button onclick="window.location.href='https://saturated-cycle.000webhostapp.com/contactus.html';">contact us</button>
+    <button onclick="window.location.href='https://www.w3schools.com/';">Learn to code</button>
+      <button onclick="window.location.href='http://saturated-cycle.000webhostapp.com/indexold.html';">Old version</button>
+        <button onclick="window.location.href='http://saturated-cycle.000webhostapp.com/aboutus.html';">about us</button>
+          <button onclick="window.location.href='http://saturated-cycle.000webhostapp.com/index.html';">Home</button>
+        <button onclick="window.location.href='https://www.w3schools.com/html/tryit.asp?filename=tryhtml_basic_document';">try html</button>        
+    </body>
+</html>
+
+<!--all the code for browse the web(even it is only one line{link})--> 
+  <!DOCTYPE html>
+  <html>
+  <body>
+   <button onclick="window.location.href='https://www.Google.com/';">Google</button>
+  </body  
