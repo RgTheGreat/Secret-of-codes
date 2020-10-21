@@ -8,3 +8,12 @@
 8.tree - shows all the folder and whats inside it
 9.netstat - shows the speed of your internet connection
 10.start powershell - open powershell
+11.edit - open editer
+12.exploerer - opens file explorer
+
+            Powershell
+1.cd downloads or pictures, desktop, documents etc - shows your files
+2.start proccess ms-settings: - starts settings
+3.edit - opens editer
+4.cd .. - go back to your cd
+5.help - see all the commands
