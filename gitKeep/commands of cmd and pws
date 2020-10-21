@@ -1,0 +1,10 @@
+1.echo on/off - turn on your cd or turn it off
+2.cmd - to start from the starting again
+3.dir - see all the directories
+4.help - see all the commands
+5.start ms-settings: - to open settings
+6.start chrome(if you have chrome)
+7.start chrome /incognito - start a incognito window of chrome 
+8.tree - shows all the folder and whats inside it
+9.netstat - shows the speed of your internet connection
+10.start powershell - open powershell
