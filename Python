@@ -43,7 +43,7 @@ def first_function():
    print("Hello World!") 
 first_function()
 
-********************************
+**********************************
 def sec_function(fname):
   print(fname + "refsnes")
   
