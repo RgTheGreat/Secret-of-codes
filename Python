@@ -38,3 +38,21 @@ while i < 6:
   print(i)
   i += 1
 
+#function
+def first_function():
+   print("Hello World!") 
+first_function()
+
+********************************
+def sec_function(fname):
+  print(fname + "refsnes")
+  
+sec_function("Python")
+sec_function("HTML")
+sec_function("Javascript")
+
+********************************
+def third_function(lan3, lan2, lan1):
+  print("The best language is " + lan3)
+
+third_function(lan1 = "HTML", lan2 = "JS", lan3 = "Python")
