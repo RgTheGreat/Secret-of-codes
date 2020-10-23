@@ -1,4 +1,4 @@
-  
+							#PYTHON  
 #This is only python not html
 print("Hello World!")
 
@@ -56,3 +56,4 @@ def third_function(lan3, lan2, lan1):
   print("The best language is " + lan3)
 
 third_function(lan1 = "HTML", lan2 = "JS", lan3 = "Python")
+#END OF FILE
