@@ -1,49 +1,34 @@
 //this is a new language 
 //golang
-
 package main
 
 import "fmt"
-func main() {
-fmt.println("Golang") 
-}
-
-//variables
-
-package main 
-
-import "fmt"
-var c, python, java bool
 
 func main() {
-var i int
-
-fmt.println("i, c, python, java")
+	fmt.Println("Hello, Rigved")
 
 }
 
-
-//function
-
-package main
+//functions
+		package main
 
 import "fmt"
 
 func add(a int, b int) int {
- return a + b
+	return a + b
+
 }
 
 func main() {
-fmt.println(add(13, 45))
+	fmt.Println(add(42, 13))
 }
-
 
 //named results-go
 package main
 
 import "fmt"
 
-func split(sum int) (a, y int) {
+func split(sum int) (x, y int) {
 	x = sum * 4 / 9
 	y = sum - x
 	return
@@ -51,4 +36,17 @@ func split(sum int) (a, y int) {
 
 func main() {
 	fmt.Println(split(17))
+}
+
+
+//variables
+package main
+
+import "fmt"
+
+var c, python, java bool
+
+func main() {
+	var i int
+	fmt.Println(i, c, python, java)
 }
