@@ -5,7 +5,7 @@
 
 
 # Other repositories
-## here is the link to my other repositories--> https://github.com/RgTheGreat/html-code and https://github.com/RgTheGreat/Important
+## here is the link to my other repositories--> https://github.com/RgTheGreat/html-code and https://github.com/RgTheGreat/
 #This repo can only be used by programmers like me.
 
 
